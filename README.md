@@ -10,7 +10,7 @@
 - 💬 Ask me about | I like Cricket and games.
 - ✔️ Known languages: C++, Scripting (batch/bash), Python, HTML, SQL, Java.
 
-<img src="https://komarev.com/ghpvc/?username=Vaaavito&color=blueviolet" alt="Vaaavito" /><br>
+<img src="https://komarev.com/ghpvc/?username=vaaavito&color=blueviolet" alt="vaaavito" /><br>
 
-[![Vaaavito  github stats](https://github-readme-stats.vercel.app/api?username=Vaaavito)](https://github.com/Vaaavito)
+[![Vaaavito  github stats](https://github-readme-stats.vercel.app/api?username=vaaavito)](https://github.com/vaaavito)
 
