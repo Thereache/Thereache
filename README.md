@@ -12,8 +12,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=Vaaavito&color=blueviolet" alt="Vaaavito" /><br>
 
-![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaaavito&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vaaavito&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Vaaavito  github stats](https://github-readme-stats.vercel.app/api?username=Vaaavito)](https://github.com/Vaaavito)
 
-
- 
