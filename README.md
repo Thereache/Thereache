@@ -1,5 +1,5 @@
 ### Hi 
-#### I'm Vaaavito 'Bhavani'
+#### I'm Thereache 'Oggy'
 ---
 
 - 🗒️ I am Trying To Learn
@@ -10,4 +10,4 @@
 - 💬 Ask me about | I like Cricket and games.
 - ✔️ Known languages: C++, Scripting (batch/bash), Python, HTML, SQL, Java.
 
-<img src="https://komarev.com/ghpvc/?username=Vaaavito&style=flat-square" alt="Vaaavito" /><br>
+<img src="https://komarev.com/ghpvc/?username=Thereache&style=flat-square" alt="Thereache" /><br>
