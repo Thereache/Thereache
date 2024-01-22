@@ -3,7 +3,7 @@
 ---
 
 - 🗒️ I am Trying To Learn
-- ⚡️ I Started Learning Android Development in September 2023 As a Hobby
+- ⚡️ I Started Learning Android Development in September 2023 
 - 📱 Devices I own: Poco X5 Pro 5G, Redmi Note 12 5G.
 - 🌱 I’m currently studying In. MSC IT.
 - 👯 I’m looking to collaborate on more projects.
