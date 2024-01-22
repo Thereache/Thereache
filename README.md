@@ -11,3 +11,8 @@
 - ✔️ Known languages: C++, Scripting (batch/bash), Python, HTML, SQL, Java.
 
 <img src="https://komarev.com/ghpvc/?username=Thereache&style=flat-square" alt="Thereache" /><br>
+
+this is me, trying to fix my rounded errors ^
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thereache&show_icons=true&theme=transparent)
