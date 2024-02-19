@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on more projects.
 - 💬 Ask me about | I like Cricket and games.
 - ✔️ Known languages: C++, Scripting (batch/bash), Python, HTML, SQL, Java.
+- 💵 You Like My Work [BuY Coffee ☕ For Mee](https://www.paypal.com/paypalme/thereache)
 
 <img src="https://komarev.com/ghpvc/?username=Thereache&style=flat-square" alt="Thereache" /><br>
 
