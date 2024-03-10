@@ -1,6 +1,6 @@
-### Hi 
-#### I'm Thereache 'Reache'
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=600&height=60&lines=Hey+There!%2C+%F0%9F%91%8B;Nice+to+meet+you....%F0%9F%98%87;I+am+Reache%2C%F0%9F%97%BF;From+Karnavati%2C+Bharat+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</a>
+</h1>
 
 - 🗒️ I am Trying To Learn
 - ⚡️ I Started Learning Android Development in September 2023 
@@ -12,6 +12,14 @@
 - 💵 You Like My Work [BuY Coffee ☕ For Mee](https://www.paypal.com/paypalme/thereache)
 
 <img src="https://komarev.com/ghpvc/?username=Thereache&style=flat-square" alt="Thereache" /><br>
+<br>
+<a href="mailto: thereache2003@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/thereache" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<br/>
 
 this is me, trying to fix my rounded errors ^
 
