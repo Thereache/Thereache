@@ -19,9 +19,14 @@
 <a href="https://t.me/thereache" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://www.paypal.com/paypalme/thereache" target="_blank">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a>
 <br/>
 
 this is me, trying to fix my rounded errors ^
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thereache&show_icons=true&theme=transparent)
+![Thereache's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thereache&show_icons=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thereache&theme=transparent&hide_border=false)<br/>
