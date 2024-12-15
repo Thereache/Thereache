@@ -5,7 +5,6 @@
 - 🗒️ I am Trying To Learn
 - ⚡️ I Started Learning Android Development in September 2023 
 - 📱 Devices I own: Poco X5 Pro 5G(Redwood).
-- 🌱 I’m currently studying In. MSC IT.
 - 👯 I’m looking to collaborate on more projects.
 - 💬 Ask me about | I like Cricket and games.
 - ✔️ Known languages: C++, Scripting (batch/bash), Python, HTML, SQL, Java.
