@@ -38,11 +38,11 @@
 
 - 🗒️ I am Trying To Learn
 - ⚡️ I Started Learning Android Development in September 2023 
-- 📱 Devices I own: Poco X5 Pro 5G(Redwood).
+- 📱 Devices I own: Poco X5 Pro 5G(Redwood)||Poco X6 5G(Garnet).
 - 👯 I’m looking to collaborate on more projects.
 - 💬 Ask me about | I like Cricket and games.
 - ✔️ Known languages: C++, Scripting (batch/bash), Python, HTML, SQL, Java.
-- 💵 You Like My Work [BuY Coffee ☕ For Mee](https://www.paypal.com/paypalme/thereache)
+- 💵 You Like My Work [BuY Coffee ☕ For Mee](https://linktr.ee/thereache)
 
 <img src="https://komarev.com/ghpvc/?username=Thereache&style=flat-square" alt="Thereache" /><br>
 <br>
@@ -52,7 +52,7 @@
 <a href="https://t.me/thereache" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://www.paypal.com/paypalme/thereache" target="_blank">
+<a href="https://linktr.ee/thereache" target="_blank">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
 <br/>
